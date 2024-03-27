@@ -3,7 +3,7 @@ import {Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/css';
 export default function Home() {
   return (
-  <main className="p-5" flex>
+  <main className="p-5" >
     <section className="bg-white flex flex-row justify-between">
       <div className="flex flex-col text-black">
         <h3 className="text-xs mt-6">Explore</h3>
